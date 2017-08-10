@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "c3fc2131-c21a-456b-b61a-4c617b7a9835",
+            "Value": {
+                "id": "51f2fabb-8edb-4d66-a698-d99b313cca94",
+                "resourcePath": "sprites\\sprBlue\\sprBlue.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c414a3bc-ed22-4c39-b24e-8b7e179cb69a",
             "Value": {
                 "id": "716bd8bd-52e0-4f39-8dc5-0226efbcef9e",
