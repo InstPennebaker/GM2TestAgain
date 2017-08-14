@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "778093c3-4b70-4e7e-a735-5f97409882d0",
+            "Value": {
+                "id": "e0490246-39f6-4c00-a373-30f3d0cb6b1a",
+                "resourcePath": "objects\\objSprBoi\\objSprBoi.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7ef15f6b-dd71-4822-907c-7250ee70b6d0",
             "Value": {
                 "id": "920007b9-1414-4a08-b459-6cfb569d035f",
