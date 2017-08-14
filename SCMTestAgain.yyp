@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0770eb65-e48a-46a2-a3a2-fd7abbe178cb",
+            "Value": {
+                "id": "d26d6c2d-7ab3-402d-b84b-9973fff28003",
+                "resourcePath": "objects\\objDontFail\\objDontFail.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2331d7d0-9c1a-4683-92b9-f3d295796644",
             "Value": {
                 "id": "820388fa-82dd-4f37-b31e-4a7e0bb7a5da",
