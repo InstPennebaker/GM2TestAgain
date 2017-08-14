@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "f27e88d8-4e0e-4a22-ac37-3e7b3ca6ebf3",
+            "Value": {
+                "id": "b83691d8-7fcd-4c34-b2c4-26672c7c6935",
+                "resourcePath": "sprites\\sprGoodLuck\\sprGoodLuck.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "addc2f1a-17e6-45a1-a3eb-ef4981da9e61",
