@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "44877313-10bd-42c5-b713-8a6691f7dc0c",
+            "Value": {
+                "id": "05dbf2af-1370-45ed-83c0-94592bae4ef6",
+                "resourcePath": "objects\\Dontfail\\Dontfail.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4f8e0636-1da1-478a-b7ea-c3e8cbb0936a",
             "Value": {
                 "id": "84e38b0f-6dda-45ca-8b3e-a188f500c5c7",
