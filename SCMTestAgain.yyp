@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "31ed9c5c-2128-4463-a7c3-f35942a86b9f",
+            "Value": {
+                "id": "fb81454c-50c8-4e6b-937b-3377dc3bc4f4",
+                "resourcePath": "sprites\\sprDontFail\\sprDontFail.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "36238390-52c6-4c5e-bc06-b9e2d5d31469",
             "Value": {
                 "id": "0d73c389-afdb-4cd8-9281-b53b4b676047",
