@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "97508b9b-d17e-4c18-811e-a69d065b2fb6",
+            "Value": {
+                "id": "5cfdd1cc-34bc-46b2-9603-06876af35da0",
+                "resourcePath": "sprites\\sprBreh\\sprBreh.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "9894b329-21b9-4a71-93b7-52de41c83dc9",
