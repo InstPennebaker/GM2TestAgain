@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "64ad8ed2-8fca-4b59-b9ed-c426809addb7",
+            "Value": {
+                "id": "a5d69105-f039-4a72-a5ac-d11b178efbb6",
+                "resourcePath": "sprites\\sprWood\\sprWood.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "763d2a07-028c-448c-a83c-523b007b2ce1",
             "Value": {
                 "id": "db9c2eb4-f079-463c-a94b-3a514609ec51",
