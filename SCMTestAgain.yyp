@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "778093c3-4b70-4e7e-a735-5f97409882d0",
+            "Value": {
+                "id": "e0490246-39f6-4c00-a373-30f3d0cb6b1a",
+                "resourcePath": "objects\\objSprBoi\\objSprBoi.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7ef15f6b-dd71-4822-907c-7250ee70b6d0",
             "Value": {
                 "id": "920007b9-1414-4a08-b459-6cfb569d035f",
@@ -164,6 +172,14 @@
                 "id": "d14328e9-be8d-46ee-bb47-4711654ca372",
                 "resourcePath": "views\\81ed1990-a198-4b77-a30f-d91fa2093cd3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "89847db4-f20e-4016-b890-11beb15c1019",
+            "Value": {
+                "id": "a371d6f1-0124-44b4-84b0-2da699b2e8f4",
+                "resourcePath": "sprites\\sprite9\\sprite9.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -228,6 +244,14 @@
                 "id": "716bd8bd-52e0-4f39-8dc5-0226efbcef9e",
                 "resourcePath": "views\\c414a3bc-ed22-4c39-b24e-8b7e179cb69a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c927db11-ac3f-43e2-a48b-6b6b4c555e0f",
+            "Value": {
+                "id": "de532d53-b737-4231-891f-253828f37e3c",
+                "resourcePath": "objects\\objWoodTest\\objWoodTest.yy",
+                "resourceType": "GMObject"
             }
         },
         {
