@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "e8763316-3e5e-4f64-a776-6d55ab5c5101",
+            "Value": {
+                "id": "72180fad-fa61-440f-942b-f8bc07c5319f",
+                "resourcePath": "objects\\objRamirezTest\\objRamirezTest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f27e88d8-4e0e-4a22-ac37-3e7b3ca6ebf3",
             "Value": {
                 "id": "b83691d8-7fcd-4c34-b2c4-26672c7c6935",
